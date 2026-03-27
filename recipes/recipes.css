@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1, h2 {
+  text-align: center;
+  margin: 15px;
+}
+
+p {
+  margin: 5px 20px;
+}
+
+.food {
+margin: 0 auto;
+display: block;
+}
+
+ul {
+  margin: 5px 30px;
+}
+
+li {
+  margin: 8px 0px;
+  font-size: 18px;
+}

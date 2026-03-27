@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes-name {
+  display: block;
+}
+
+ul {
+  width: 50vw;
+}
+
+li {
+  margin: 10px;
+}
+
+h1 {
+  margin-left: 30px;
+}
